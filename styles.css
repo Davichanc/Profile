@@ -6,7 +6,7 @@ body{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     color: aliceblue;}
 .grid-item-1{
     color: black;}
