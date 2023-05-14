@@ -1,0 +1,12 @@
+body{ 
+    background-color: red;
+    color: blue;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color: aliceblue;}
+.grid-item-1{
+    color: black;}
