@@ -2,6 +2,9 @@ body{
     background-color: red;
     color: blue;
 }
+.titulo{
+    text-align: center;
+}
 .container {
     display: flex;
     flex-direction: row;
