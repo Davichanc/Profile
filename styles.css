@@ -14,7 +14,7 @@ body{
 .titulo{
         color:black;
         background-color: black;
-        height: 100%;
+        height: auto;
         display: flex;
         justify-content: center;
 }
@@ -31,4 +31,13 @@ h2{
     background-color: black;
     display: grid;
     grid-row: auto;
+}
+footer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    color: azure;
+    background-color: black;
+}
+.correo{
+text-align: end;
 }
