@@ -11,17 +11,24 @@ body{
     align-items: center;
     justify-content: space-between;
     color: aliceblue;}
-    .titulo{
+.titulo{
         color:black;
         background-color: black;
         height: 100%;
         display: flex;
         justify-content: center;
-
-
-    }
-    .titulo_interior{
+}
+.titulo_interior{
         width: 400px;
         background-color: white;
-
-    }
+}
+img{
+    width: 40%;
+    height: auto;
+}
+h2{
+    color: aliceblue;
+    background-color: black;
+    display: grid;
+    grid-row: auto;
+}
