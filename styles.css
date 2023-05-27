@@ -1,9 +1,9 @@
 body{ 
-    background-color: red;
-    color: blue;
+    color: black;
 }
 .titulo{
     text-align: center;
+    font-size: 14px;
 }
 .container {
     display: flex;
@@ -11,5 +11,17 @@ body{
     align-items: center;
     justify-content: space-between;
     color: aliceblue;}
-.grid-item-1{
-    color: black;}
+    .titulo{
+        color:black;
+        background-color: black;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+
+
+    }
+    .titulo_interior{
+        width: 400px;
+        background-color: white;
+
+    }
